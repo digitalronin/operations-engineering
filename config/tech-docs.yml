@@ -1,5 +1,5 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://ministryofjustice/operations-engineering
+host: https://github.com/digitalronin/operations-engineering
 
 # Header-related options
 show_govuk_logo: true
@@ -8,7 +8,7 @@ service_link: /operations-engineering
 
 # Links to show on right-hand-side of header
 header_links:
-  GitHub: https://github.com/ministryofjustice/operations-engineering
+  GitHub: https://github.com/digitalronin/operations-engineering
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
@@ -31,5 +31,5 @@ max_toc_heading_level: 3
 prevent_indexing: true
 
 show_contribution_banner: true
-github_repo: ministryofjustice/operations-engineering
+github_repo: digitalronin/operations-engineering
 github_branch: main
